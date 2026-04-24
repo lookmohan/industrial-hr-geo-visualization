@@ -150,10 +150,3 @@ This project follows [PEP 8](https://www.python.org/dev/peps/pep-0008/) Python c
 - Column names are normalized to `snake_case`
 - No hardcoded paths — data folder is scanned dynamically
 
----
-
-## 🙋 Author
-
-Priyanka  
-Project: Industrial Human Resource Geo-Visualization  
-📌 Domain: Resource Management | EDA | NLP | Visualization
